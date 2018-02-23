@@ -1,0 +1,10 @@
+name: ExemptPvP
+version: 0.4
+main: me.zackpollard.ExemptPvP.ExemptPvP
+commands:
+    pvp:
+        description: Commands for the ExemptPvP Plugin
+        usage: /pvp
+    exemptpvp:
+        description: An alternative for the /pvp commands
+        usage: /exemptpvp
